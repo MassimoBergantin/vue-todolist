@@ -1,0 +1,36 @@
+body {
+    background-color: cadetblue;
+}
+
+.fa-minus-circle {
+   font-size: 20px;
+}
+
+ul {
+    list-style: none;
+}
+.form {
+    margin-top: 50px;
+    margin-left: 50%;
+}
+.insert {
+    border-radius: 25px;
+    width: 200px;
+    text-align: center;
+}
+.add {
+    width: 100px;
+}
+.logo {
+    margin-top: 20px;
+    margin-left: 40%; 
+}
+
+.logo img {
+    width: 50%;
+}
+
+.todo {
+    margin-top:20px;
+    margin-left: 53%;
+}
